@@ -1,4 +1,5 @@
 sudo apt-get install git-all
+sudo apt-get install tmux
 pip install setuptools==58.2.0
 cd
 git clone https://github.com/PX4/PX4-Autopilot.git --recursive
