@@ -2,6 +2,7 @@ sudo apt-get install git-all
 sudo apt-get install tmux
 pip install setuptools==58.2.0
 pip3 install --user fastapi uvicorn
+pip install termcolor
 cd
 git clone https://github.com/PX4/PX4-Autopilot.git --recursive
 bash ./PX4-Autopilot/Tools/setup/ubuntu.sh
