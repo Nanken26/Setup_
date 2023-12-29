@@ -11,5 +11,5 @@ Setup.sh çalıştırıldığında(px4 ve ros2 gereklli tüm kaynaklarla beraber
 8- src/falcon_simulation/scripts içerisinde terminal açılıp
 9- chmod -R 777 . yazılıp çalıştırılır alt satırda ./setup.sh çalıştırılır
 10- scripts içindeki env.sh dosyasında 6. ve son satırdaki Falcon ismi srcnin olduğu klasörün adı yapılmalıdır 
-11-terminalde ./env.sh sonrasında ./build.sh çalıştırılmalıdır
+11-terminalde source env.sh sonrasında bash build.sh çalıştırılmalıdır
 
